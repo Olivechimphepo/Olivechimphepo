@@ -41,7 +41,7 @@ Bringing ideas to life with <strong>Flutter • Angular • Tailwind • React N
 
 ## 🎨 Full Tech Stack
 
-### 🌼 Frontend & Mobile  
+###🎨 Frontend & Mobile  
 `Flutter` · `Angular` · `Tailwind CSS` · `React Native` · `HTML` · `CSS` · `JavaScript`
 
 ### 🌿 Backend & Database  
@@ -58,34 +58,14 @@ Bringing ideas to life with <strong>Flutter • Angular • Tailwind • React N
 A smooth, aesthetic app for showcasing menus & placing orders.  
 **Tech:** Flutter / Firebase / Tailwind  
 
-✨ **Features:**  
-- Clean animated UI  
-- Dynamic food menu  
-- Smooth ordering flow  
-
----
-
 ### 🎬 Streaming App  
 A stylish streaming UI inspired by modern streaming platforms.  
-**Tech:** React Native / API Integration  
+**Tech:** Flutter / API Integration  
 
-✨ **Features:**  
-- Movie previews  
-- Aesthetic layout  
-- Easy browsing  
-
----
 
 ### 🧠 Memory Matching Game  
 Cute & fun memory game with colorful visuals.  
-**Tech:** JavaScript / HTML / CSS  
-
-✨ **Features:**  
-- Card animations  
-- Timer + scoring  
-- Soft color palette  
-
----
+**Tech:** Vue   
 
 ## 📊 GitHub Stats
 
