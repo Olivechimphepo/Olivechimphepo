@@ -32,6 +32,8 @@ Bringing ideas to life with <strong>Flutter • Angular • Tailwind • React N
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" title="Canva"/> 
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" title="Figma"/> 
 
 </p>
 
@@ -95,7 +97,8 @@ Cute & fun memory game with colorful visuals.
 ---
 
 ## 🌼 Connect With Me  
-- 📫 Email: **olivechimphepo8@gmail.com**  
+- 📫 Email: **olivechimphepo8@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/olive-chimphepo-1a9031275/**
 - 💬 Open to aesthetic UI projects, collabs & fun ideas  
 
 ---
